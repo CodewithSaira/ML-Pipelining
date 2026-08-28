@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://github.com/CodewithSaira/ML-Pipelining/blob/main/work/notebooks/capstone.ipynbPASTE-YOUR-DEPLOYED-PAPER-URL-HERE
