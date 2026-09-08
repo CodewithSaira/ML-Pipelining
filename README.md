@@ -1,9 +1,10 @@
 # 🚀 FlyRank ML Capstone Project
 
-> 📄 **Live Deployed Paper:** Read Deployed Capstone Paper Here:https://codewithsaira.github.io/ML-Pipelining/ 
-> 
+> 📄 **Live Deployed Paper:** [Read Deployed Capstone Paper Here](https://codewithsaira.github.io/ML-Pipelining/)
 
----# FlyRank ML Internship — Starter Repo
+---
+
+# FlyRank ML Internship — Starter Repo
 
 **Applied Search Intelligence: Google Search Ranking & Discoverability**
 
